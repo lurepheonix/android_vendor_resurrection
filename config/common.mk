@@ -79,10 +79,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/cm/Features.mkdn:system/etc/RR/Features.txt
 
-# NexusLauncher
-PRODUCT_COPY_FILES += \
-    vendor/cm/prebuilt/NexusLauncher/NexusLauncher.apk:system/app/NexusLauncher/NexusLauncher.apk
-
 # Wallpaper
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/Wallpaper/Wallpaper.apk:system/app/Wallpaper/Wallpaper.apk
